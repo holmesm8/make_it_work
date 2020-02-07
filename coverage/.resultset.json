@@ -243,12 +243,31 @@
           1,
           null,
           1,
+          1,
           null
         ]
       },
       "/Users/mattholmes/turing/2module/classwork/make_it_work/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/mattholmes/turing/2module/classwork/make_it_work/spec/features/projects/project_show_page_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -363,7 +382,7 @@
           null
         ]
       },
-      "/Users/mattholmes/turing/2module/classwork/make_it_work/app/controllers/projects_controller.rb": {
+      "/Users/mattholmes/turing/2module/classwork/make_it_work/app/controllers/contestants_controller.rb": {
         "lines": [
           1,
           null,
@@ -378,8 +397,18 @@
           1,
           null
         ]
+      },
+      "/Users/mattholmes/turing/2module/classwork/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1581095228
+    "timestamp": 1581098438
   }
 }
